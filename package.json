@@ -19,7 +19,9 @@
   "homepage": "https://github.com/KyllderRocha/Teste-Servidor-Phaser#readme",
   "dependencies": {
     "canvas": "^2.5.0",
+    "datauri": "^2.0.0",
     "express": "^4.17.1",
-    "jsdom": "^15.1.1"
+    "jsdom": "^15.1.1",
+    "socket.io": "^2.2.0"
   }
 }
